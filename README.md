@@ -1,5 +1,5 @@
 Used React.js, Redux, Axios, Material-UI and firebase to make the Frontend as same as Netflix website (Streaming platform).
-<br>
+<br><br>
 Checkout some screenshots of the application.
 <br><br><br>
 👉![](./image1.png)
