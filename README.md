@@ -4,8 +4,8 @@ Used React.js, Redux, Axios, Material-UI and firebase to make the Frontend as sa
 <br><br><br><br><br>
 👉![](./image2.png)
 <br><br><br><br><br>
-👉![](./image3.png)
+👉![](./image3.jpg)
 <br><br><br><br><br>
-👉![](./image4.png)
+👉![](./image4.jpg)
 <br><br><br><br><br>
 👉![](./image5.png)
